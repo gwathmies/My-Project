@@ -1,3 +1,2 @@
-# My-Project
+# Grocery List App
 
-first project!
